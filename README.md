@@ -1,7 +1,7 @@
 # genPrime
 ### Created: 2022-February-6
 
-This program generates prime numbers of a given length. It implemnts the Miller Rabin primality test
+This program generates prime numbers of a given length. It implements the Miller Rabin primality test
 in Haskell, and uses it to check primality of the randomly generated number.
 
 ## **Warning!**
