@@ -17,9 +17,7 @@ Prints a prime number with the specified number of bits
 Type `make` to generate the executeable `genPrime`
 
 ## Dependencies
-1. Haskell `ghc` compiler.
-2. `cabal`
-3. The `random` package (`cabal install random`)
-4. The `arithmoi` package for the `Math.NumberTheory.Powers.Modular`. We use the deprecated powMod function.
-
+1. `cabal install arithmoi --lib`
+2. `cabal install integer-roots --lib`
+3. `cabal install random --lib`
 
